@@ -1,11 +1,5 @@
 # Escape Room – Cheat Sheet
 
-## Team
-- Shane Ayres
-- Jamie Caprani
-- Deirdre Hegarty
-- Sinead O’Rourke
-
 ## Intro
 - Run the `escape-room.html` in a Mozilla Firefox browser.
 - If any alerts come up to allow permissions to your microphone, please accept if feasible. The microphone will be used to blow out a candle in one of the rooms.
