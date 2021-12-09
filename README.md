@@ -32,6 +32,7 @@
 - TV static comes back on and a new clue (button 3) is waiting for the user.
 - The clue prompts the user to cut off the dead man’s right leg with the hacksaw (keys come in many shapes and forms).
 
+
 ## Task 4
 - TV static comes on again with another clue for the user. This time the user must solve the word made up in symbols from the clue on button 4 (the word is ‘headstone’).
 - Headstone refers to one of the paintings on the portrait wall. Go to the wall with all the portraits (moving screen). Click the top left photo. Falls off wall and reveals a hole in the wall.
